@@ -1,4 +1,7 @@
 # Python-Dashboard
+![Dashboard Preview](DashBoard%20Image%20PNG.png)
+
+
 
 A fully interactive dashboard built with **Streamlit**, **Plotly**, and **Pandas** to support analytics and file tracking for File & Claim Inc.
 
